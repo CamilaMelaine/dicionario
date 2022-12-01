@@ -117,8 +117,7 @@ function carregaDicionario() {
            "<blockquote><q>" +
            "</q><blockquote>" +
            "</details>" +
-           "</div'>";
-           
+           "</div'>";  
     }
 }
 
